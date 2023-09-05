@@ -28,6 +28,8 @@ Pot app plugin collection from the community.
 
 ## Recognize
 
+- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - Plugin to recognize with PaddleOCR-json
+
 ## TTS
 
 ## Collection
