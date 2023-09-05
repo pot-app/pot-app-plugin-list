@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Pot App 插件列表</h1>
 
-<h3>[<a href='./README.md'>English</a>a][中文]</h3>
+<h3>[<a href='./README.md'>English</a>][中文]</h3>
 
 来自社区的 Pot App 插件列表
 
