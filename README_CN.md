@@ -28,6 +28,8 @@
 
 ## 文字识别
 
+- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - PaddleOCR-json 文字识别插件
+
 ## 语音合成
 
 ## 生词本
