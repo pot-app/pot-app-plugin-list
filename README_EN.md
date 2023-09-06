@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Pot App Plugin Collection</h1>
 
-<h3>[English][<a href='./README_CN.md'>中文</a>]</h3>
+<h3>[English][<a href='./README.md'>中文</a>]</h3>
 
 Pot app plugin collection from the community.
 
