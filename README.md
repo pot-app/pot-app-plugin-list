@@ -29,6 +29,7 @@
 ## 文字识别
 
 - [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - PaddleOCR-json 文字识别插件
+- [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
 
 ## 语音合成
 
