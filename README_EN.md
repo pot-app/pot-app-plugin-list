@@ -25,10 +25,11 @@ Pot app plugin collection from the community.
 ## Translate
 
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - Plugin to translate with LibreTranslate
+- [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) - Plugin to search sentence with Tatoeba
 
 ## Recognize
 
-- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - Plugin to recognize with PaddleOCR-json
+- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - Plugin to recognize with PaddleOCR
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Plugin to recognize with Google Cloud
 
 ## TTS
