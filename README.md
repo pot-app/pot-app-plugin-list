@@ -19,8 +19,8 @@
 
 ## 模板
 
-- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) - 创建翻译插件的模板仓库
-- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) - 创建文字识别插件的模板仓库
+- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) - 创建翻译插件的模板仓库 (Lingva)
+- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) - 创建文字识别插件的模板仓库 (OCR Space)
 
 ## 翻译
 
@@ -29,7 +29,6 @@
 
 ## 文字识别
 
-- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - PaddleOCR 文字识别插件
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
 
 ## 语音合成
