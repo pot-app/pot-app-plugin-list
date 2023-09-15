@@ -19,8 +19,8 @@ Pot app plugin collection from the community.
 
 ## Template
 
-- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) - Template to create a translate plugin
-- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) - Template to create a recognize plugin
+- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) - Template to create a translate plugin (Lingva)
+- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) - Template to create a recognize plugin (OCR Space)
 
 ## Translate
 
@@ -29,7 +29,6 @@ Pot app plugin collection from the community.
 
 ## Recognize
 
-- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) - Plugin to recognize with PaddleOCR
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Plugin to recognize with Google Cloud
 
 ## TTS
