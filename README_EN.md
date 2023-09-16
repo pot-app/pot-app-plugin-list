@@ -26,6 +26,7 @@ Pot app plugin collection from the community.
 
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - Plugin to translate with LibreTranslate
 - [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) - Plugin to search sentence with Tatoeba
+- [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) - Plugin to translate with VolcEngine
 
 ## Recognize
 
