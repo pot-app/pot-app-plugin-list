@@ -28,6 +28,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) - Plugin to search sentence with Tatoeba
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) - Plugin to translate with VolcEngine
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) - Plugin to translate with TranSmart
+- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) - Plugin to search word with MOJi Dict
 
 ## Recognize
 
