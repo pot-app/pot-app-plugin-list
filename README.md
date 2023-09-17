@@ -28,6 +28,7 @@
 - [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) - Tatoeba 例句查询插件
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) - 免配置 火山翻译插件
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) - 免配置 腾讯交互翻译插件
+- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) - MOJi辞書 日语查词插件
 
 ## 文字识别
 
