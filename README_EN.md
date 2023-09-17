@@ -17,18 +17,22 @@ Pot app plugin collection from the community.
 - [TTS](#tts)
 - [Collection](#collection)
 
+> ![official] This plugin is **officially maintained**.
+>
+> ![illegal] This plugin was implemented through **unconventional** means. Please decide for yourself whether to use it.
+
 ## Template
 
-- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) ![officially maintained] - Template to create a translate plugin (Lingva)
-- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) ![officially maintained] - Template to create a recognize plugin (OCR Space)
+- [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) ![official] - Template to create a translate plugin (Lingva)
+- [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) ![official] - Template to create a recognize plugin (OCR Space)
 
 ## Translate
 
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - Plugin to translate with LibreTranslate
-- [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![officially maintained] - Plugin to search sentence with Tatoeba
-- [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) - Plugin to translate with VolcEngine
-- [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) - Plugin to translate with TranSmart
-- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) - Plugin to search word with MOJi Dict
+- [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![official] - Plugin to search sentence with Tatoeba
+- [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - Plugin to translate with VolcEngine
+- [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - Plugin to translate with TranSmart
+- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - Plugin to search word with MOJi Dict
 
 ## Recognize
 
@@ -38,5 +42,5 @@ Pot app plugin collection from the community.
 
 ## Collection
 
-[officially maintained]: https://img.shields.io/badge/Official-FFC131
-[closed source]: https://img.shields.io/badge/Close%20Source-FFC131
+[official]: https://img.shields.io/badge/official-yellow
+[illegal]: https://img.shields.io/badge/illegal-grey
