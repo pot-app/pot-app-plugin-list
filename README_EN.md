@@ -26,6 +26,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) ![official] - Template to create a translate plugin (Lingva)
 - [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) ![official] - Template to create a recognize plugin (OCR Space)
 - [pot-app-tts-plugin-template](https://github.com/pot-app/pot-app-tts-plugin-template) ![official] - Template to create a tts plugin (Lingva)
+- [pot-app-collection-plugin-template](https://github.com/pot-app/pot-app-collection-plugin-template) ![official] - Template to create a collection plugin (Anki)
 
 ## Translate
 
