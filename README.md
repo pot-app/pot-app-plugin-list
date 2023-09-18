@@ -25,6 +25,7 @@
 
 - [pot-app-translate-plugin-template](https://github.com/pot-app/pot-app-translate-plugin-template) ![official] - 创建翻译插件的模板仓库 (Lingva)
 - [pot-app-recognize-plugin-template](https://github.com/pot-app/pot-app-recognize-plugin-template) ![official] - 创建文字识别插件的模板仓库 (OCR Space)
+- [pot-app-tts-plugin-template](https://github.com/pot-app/pot-app-tts-plugin-template) ![official] - 创建语音合成插件的模板仓库 (Lingva)
 
 ## 翻译
 
