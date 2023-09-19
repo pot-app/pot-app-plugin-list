@@ -30,15 +30,15 @@ Pot app plugin collection from the community.
 
 ## Translate
 
-- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - Plugin to translate with LibreTranslate
-- [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![official] - Plugin to search sentence with Tatoeba
-- [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - Plugin to translate with VolcEngine
-- [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - Plugin to translate with TranSmart
-- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - Plugin to search word with MOJi Dict
+- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin 
+- [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![official] - Tatoeba sentence search plugin
+- [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - VolcEngine translate plugin
+- [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - TranSmart translate plugin
+- [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi Dict translate plugin
 
 ## Recognize
 
-- [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Plugin to recognize with Google Cloud
+- [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google Cloud recognize plugin
 
 ## TTS
 
