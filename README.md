@@ -42,6 +42,8 @@
 
 ## 语音合成
 
+- [pot-app-tts-plugin-microsoft](https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft) ![illegal] - 微软语音合成插件
+
 ## 生词本
 
 [official]: https://img.shields.io/badge/official-yellow
