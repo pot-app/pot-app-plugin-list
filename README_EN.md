@@ -42,6 +42,8 @@ Pot app plugin collection from the community.
 
 ## TTS
 
+- [pot-app-tts-plugin-microsoft](https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft) ![illegal] - Microsoft TTS plugin
+
 ## Collection
 
 [official]: https://img.shields.io/badge/official-yellow
