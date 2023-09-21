@@ -35,6 +35,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - VolcEngine translate plugin
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - TranSmart translate plugin
 - [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi Dict translate plugin
+- [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - Caiyun translate plugin
 
 ## Recognize
 

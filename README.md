@@ -35,6 +35,7 @@
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - 免配置 火山翻译插件
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - 免配置 腾讯交互翻译插件
 - [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi 辞書 日语查词插件
+- [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - 免配置 彩云小译插件
 
 ## 文字识别
 
