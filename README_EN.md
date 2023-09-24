@@ -47,5 +47,7 @@ Pot app plugin collection from the community.
 
 ## Collection
 
+-[pot-app-collection-plugin-youdao](https://github.com/pot-app/pot-app-collection-plugin-youdao) ![official] - YouDao collection plugin
+
 [official]: https://img.shields.io/badge/official-yellow
 [illegal]: https://img.shields.io/badge/illegal-grey
