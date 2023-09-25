@@ -48,6 +48,7 @@
 ## 生词本
 
 - [pot-app-collection-plugin-youdao](https://github.com/pot-app/pot-app-collection-plugin-youdao) ![official] - 有道生词本插件
+- [pot-app-collection-plugin-shanbay](https://github.com/pot-app/pot-app-collection-plugin-shanbay) ![official] - 扇贝生词本插件
 
 [official]: https://img.shields.io/badge/official-yellow
 [illegal]: https://img.shields.io/badge/illegal-grey
