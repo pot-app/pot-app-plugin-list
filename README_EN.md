@@ -41,6 +41,7 @@ Pot app plugin collection from the community.
 
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google Cloud recognize plugin
 - [pot-app-recognize-plugin-rapid](https://github.com/pot-app/pot-app-recognize-plugin-rapid) ![official] - Rapid Offline recognition plugin
+- [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) ![official] - Paddle Offline recognition plugin
 
 ## TTS
 
