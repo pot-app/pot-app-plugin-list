@@ -37,6 +37,7 @@
 - [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi 辞書 日语查词插件
 - [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - 免配置 彩云小译插件
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
+- [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
 
 ## 文字识别
 

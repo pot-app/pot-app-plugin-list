@@ -37,6 +37,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi Dict translate plugin
 - [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - Caiyun translate plugin
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - Tencent translate plugin
+- [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API translate plugin
 
 ## Recognize
 
