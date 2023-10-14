@@ -47,6 +47,8 @@
 ## 语音合成
 
 - [pot-app-tts-plugin-microsoft](https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft) ![illegal] - 微软语音合成插件
+- [pot-app-tts-plugin-youdao](https://github.com/TechDecryptor/pot-app-tts-plugin-youdao) ![illegal] - 有道语音合成插件
+- [pot-app-tts-plugin-volcengine](https://github.com/TechDecryptor/pot-app-tts-plugin-volcengine) ![illegal] - 火山语音合成插件
 
 ## 生词本
 
