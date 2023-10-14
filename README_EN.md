@@ -47,6 +47,8 @@ Pot app plugin collection from the community.
 ## TTS
 
 - [pot-app-tts-plugin-microsoft](https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft) ![illegal] - Microsoft TTS plugin
+- [pot-app-tts-plugin-youdao](https://github.com/TechDecryptor/pot-app-tts-plugin-youdao) ![illegal] - Youdao TTS plugin
+- [pot-app-tts-plugin-volcengine](https://github.com/TechDecryptor/pot-app-tts-plugin-volcengine) ![illegal] - VolcEngine TTS plugin
 
 ## Collection
 
