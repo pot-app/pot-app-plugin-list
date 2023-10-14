@@ -38,7 +38,7 @@
 - [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - 免配置 彩云小译插件
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
-- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件(基于[ECDICT](https://github.com/skywind3000/ECDICT))
+- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
 
 ## 文字识别
 
