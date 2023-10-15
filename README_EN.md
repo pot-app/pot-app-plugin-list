@@ -17,9 +17,9 @@ Pot app plugin collection from the community.
 - [TTS](#tts)
 - [Collection](#collection)
 
-> ![official] This plugin is **officially maintained**.
->
-> ![illegal] This plugin was implemented through **unconventional** means. Please decide for yourself whether to use it.
+![official] This plugin is **officially maintained**.
+
+![illegal] This plugin was implemented through **unconventional** means. Please decide for yourself whether to use it.
 
 ## Template
 
