@@ -41,6 +41,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - Offline English-Chinese dictionary plugin (base on [ECDICT](https://github.com/skywind3000/ECDICT))
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - Papago translate plugin
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - Youdao translate plugin
+- [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - Baidu translate plugin
 
 ## Recognize
 
