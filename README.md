@@ -41,6 +41,7 @@
 - [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago翻译插件
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - 免配置 有道翻译插件
+- [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
 
 ## 文字识别
 
