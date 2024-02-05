@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Pot App Plugin Collection</h1>
+<h1><a href="https://pot-app.com/en/plugin.html">Pot App Plugin Collection</a></h1>
 
 <h3>[English][<a href='./README.md'>中文</a>]</h3>
 
@@ -30,7 +30,7 @@ Pot app plugin collection from the community.
 
 ## Translate
 
-- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin 
+- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin
 - [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![official] - Tatoeba sentence search plugin
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - VolcEngine translate plugin
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - TranSmart translate plugin

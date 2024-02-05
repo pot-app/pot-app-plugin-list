@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Pot App 插件列表</h1>
+<h1><a href="https://pot-app.com/plugin.html">Pot App 插件列表</a></h1>
 
 <h3>[<a href='./README_EN.md'>English</a>][中文]</h3>
 
@@ -39,7 +39,7 @@
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
 - [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
-- [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago翻译插件
+- [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago 翻译插件
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - 免配置 有道翻译插件
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
 
