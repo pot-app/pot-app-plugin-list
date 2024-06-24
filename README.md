@@ -38,7 +38,7 @@
 - [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - 免配置 彩云小译插件
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
-- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
+- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago 翻译插件
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - 免配置 有道翻译插件
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
@@ -51,7 +51,6 @@
 
 ## 语音合成
 
-- [pot-app-tts-plugin-microsoft](https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft) ![illegal] - 微软语音合成插件
 - [pot-app-tts-plugin-youdao](https://github.com/TechDecryptor/pot-app-tts-plugin-youdao) ![illegal] - 有道语音合成插件
 - [pot-app-tts-plugin-volcengine](https://github.com/TechDecryptor/pot-app-tts-plugin-volcengine) ![illegal] - 火山语音合成插件
 
