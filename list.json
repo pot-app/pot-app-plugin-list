@@ -149,6 +149,14 @@
       "illegal": false
     },
     {
+      "name": "pot-app-recognize-plugin-openai",
+      "desc_en": "OpenAI recognition plugin",
+      "desc_zh": "OpenAI 文字识别插件",
+      "url": "https://github.com/pot-app/pot-app-recognize-plugin-openai",
+      "offical": true,
+      "illegal": false
+    },
+    {
       "name": "pot-app-recognize-plugin-google",
       "desc_en": "Google Cloud recognize plugin",
       "desc_zh": "Google 文字识别插件",
