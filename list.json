@@ -163,6 +163,14 @@
       "url": "https://github.com/Integral-Tech/pot-app-recognize-plugin-google",
       "offical": false,
       "illegal": false
+    },
+    {
+      "name": "pot-app-recognize-plugin-doc2x",
+      "desc_en": "Doc2x recognize plugin",
+      "desc_zh": "Doc2x 文字识别插件",
+      "url": "https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x",
+      "offical": false,
+      "illegal": false
     }
   ],
   "tts": [
