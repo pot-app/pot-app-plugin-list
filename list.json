@@ -159,14 +159,6 @@
   ],
   "tts": [
     {
-      "name": "pot-app-tts-plugin-microsoft",
-      "desc_en": "Microsoft TTS plugin",
-      "desc_zh": "微软语音合成插件",
-      "url": "https://github.com/TechDecryptor/pot-app-tts-plugin-microsoft",
-      "offical": false,
-      "illegal": true
-    },
-    {
       "name": "pot-app-tts-plugin-youdao",
       "desc_en": "Youdao TTS plugin",
       "desc_zh": "有道语音合成插件",
