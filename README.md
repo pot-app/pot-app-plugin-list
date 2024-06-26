@@ -47,6 +47,7 @@
 
 - [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x)- Doc2X 文字识别插件
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
+- [pot-app-recognize-plugin-microsoft](https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft) - Microsoft 文字识别插件
 - [pot-app-recognize-plugin-rapid](https://github.com/pot-app/pot-app-recognize-plugin-rapid) ![official] - Rapid 离线文字识别插件
 - [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) ![official] - Paddle 离线文字识别插件
 - [pot-app-recognize-plugin-openai](https://github.com/pot-app/pot-app-recognize-plugin-openai) ![official] - OpenAI 文字识别插件
