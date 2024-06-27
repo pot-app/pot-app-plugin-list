@@ -30,27 +30,27 @@
 
 ## 翻译
 
-- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate 翻译插件
+- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 离线 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
 - [pot-app-translate-plugin-tatoeba](https://github.com/pot-app/pot-app-translate-plugin-tatoeba) ![official] - Tatoeba 例句查询插件
 - [pot-app-translate-plugin-volcengine](https://github.com/TechDecryptor/pot-app-translate-plugin-volcengine) ![illegal] - 免配置 火山翻译插件
 - [pot-app-translate-plugin-transmart](https://github.com/TechDecryptor/pot-app-translate-plugin-transmart) ![illegal] - 免配置 腾讯交互翻译插件
 - [pot-app-translate-plugin-moji_dict](https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict) ![illegal] - MOJi 辞書 日语查词插件
 - [pot-app-translate-plugin-caiyun](https://github.com/TechDecryptor/pot-app-translate-plugin-caiyun) ![illegal] - 免配置 彩云小译插件
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
-- [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
-- [pot-app-translate-plugin-ecdict](https://github.com/pot-app/pot-app-translate-plugin-ecdict) ![official] - 英汉词典插件 (基于[ECDICT](https://github.com/skywind3000/ECDICT))
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago 翻译插件
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - 免配置 有道翻译插件
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
+- [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate 翻译插件
+- [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
 
 ## 文字识别
 
-- [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x)- Doc2X 文字识别插件
-- [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
-- [pot-app-recognize-plugin-microsoft](https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft) - Microsoft 文字识别插件
 - [pot-app-recognize-plugin-rapid](https://github.com/pot-app/pot-app-recognize-plugin-rapid) ![official] - Rapid 离线文字识别插件
 - [pot-app-recognize-plugin-paddle](https://github.com/pot-app/pot-app-recognize-plugin-paddle) ![official] - Paddle 离线文字识别插件
 - [pot-app-recognize-plugin-openai](https://github.com/pot-app/pot-app-recognize-plugin-openai) ![official] - OpenAI 文字识别插件
+- [pot-app-recognize-plugin-microsoft](https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft) - Microsoft 文字识别插件
+- [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
+- [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x)- Doc2X 文字识别插件
 
 ## 语音合成
 
