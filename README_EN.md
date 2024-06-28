@@ -54,6 +54,7 @@ Pot app plugin collection from the community.
 
 ## TTS
 
+- [pot-app-tts-plugin-openai](https://github.com/pot-app/pot-app-tts-plugin-openai) ![official] - OpenAI TTS plugin
 - [pot-app-tts-plugin-youdao](https://github.com/TechDecryptor/pot-app-tts-plugin-youdao) ![illegal] - Youdao TTS plugin
 - [pot-app-tts-plugin-volcengine](https://github.com/TechDecryptor/pot-app-tts-plugin-volcengine) ![illegal] - VolcEngine TTS plugin
 
