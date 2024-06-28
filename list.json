@@ -183,6 +183,14 @@
   ],
   "tts": [
     {
+      "name": "pot-app-tts-plugin-openai",
+      "desc_en": "OpenAI TTS plugin",
+      "desc_zh": "OpenAI 语音合成插件",
+      "url": "https://github.com/pot-app/pot-app-tts-plugin-openai",
+      "offical": true,
+      "illegal": false
+    },
+    {
       "name": "pot-app-tts-plugin-youdao",
       "desc_en": "Youdao TTS plugin",
       "desc_zh": "有道语音合成插件",
