@@ -179,6 +179,14 @@
       "url": "https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft",
       "offical": false,
       "illegal": false
+    },
+    {
+      "name": "pot-app-recognize-plugin-baimiao",
+      "desc_en": "Baimiao recognize plugin",
+      "desc_zh": "白描 文字识别插件",
+      "url": "https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao",
+      "offical": false,
+      "illegal": true
     }
   ],
   "tts": [
