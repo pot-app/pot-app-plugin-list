@@ -51,6 +51,7 @@ Pot app plugin collection from the community.
 - [pot-app-recognize-plugin-microsoft](https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft) - Microsoft recognize plugin
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google Cloud recognize plugin
 - [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x) - Doc2X recognize plugin
+- [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - Baimiao recognize plugin
 
 ## TTS
 
