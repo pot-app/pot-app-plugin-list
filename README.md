@@ -51,6 +51,7 @@
 - [pot-app-recognize-plugin-microsoft](https://github.com/omegaduncan/pot-app-recognize-plugin-microsoft) - Microsoft 文字识别插件
 - [pot-app-recognize-plugin-google](https://github.com/Integral-Tech/pot-app-recognize-plugin-google) - Google 文字识别插件
 - [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x)- Doc2X 文字识别插件
+- [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - 白描 文字识别插件
 
 ## 语音合成
 
