@@ -1,0 +1,18 @@
+name: Trigger Doc Update
+on:
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "README_EN.md"
+      - "README.md"
+
+jobs:
+  trigger-CMFA-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger update-dependencies
+        run: |
+          curl -X POST https://api.github.com/repos/pot-app/pot-docs/dispatches \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secret.TOKEN }}" \
+            -d '{"event_type": "plugins-updated"}'
