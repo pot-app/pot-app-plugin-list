@@ -7,10 +7,10 @@ on:
       - "README.md"
 
 jobs:
-  trigger-CMFA-update:
+  trigger-Doc-update:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger update-dependencies
+      - name: Trigger update
         run: |
           curl -X POST https://api.github.com/repos/pot-app/pot-docs/dispatches \
             -H "Accept: application/vnd.github.everest-preview+json" \
