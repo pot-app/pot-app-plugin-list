@@ -129,6 +129,14 @@
       "url": "https://github.com/TechDecryptor/pot-app-translate-plugin-baidu",
       "offical": false,
       "illegal": true
+    },
+    {
+      "name": "pot-app-translate-plugin-azure",
+        "desc_en": "Azure translate plugin",
+        "desc_zh": "Azure 翻译插件",
+        "url": "https://github.com/ElmTran/pot-app-translate-plugin-azure",
+        "offical": false,
+        "illegal": false
     }
   ],
   "recognize": [

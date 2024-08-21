@@ -42,6 +42,7 @@
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate 翻译插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
+- [pot-app-translate-plugin-azure](https://github.com/ElmTran/pot-app-translate-plugin-azure) - Azure 翻译插件
 
 ## 文字识别
 

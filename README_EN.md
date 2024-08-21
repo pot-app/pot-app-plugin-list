@@ -42,6 +42,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - Baidu translate plugin
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API translate plugin
+- [pot-app-translate-plugin-azure](https://github.com/ElmTran/pot-app-translate-plugin-azure) - Azure translate plugin
 
 ## Recognize
 
