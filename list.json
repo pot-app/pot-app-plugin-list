@@ -137,6 +137,14 @@
         "url": "https://github.com/ElmTran/pot-app-translate-plugin-azure",
         "offical": false,
         "illegal": false
+    },
+    {
+      "name": "pot-app-translate-plugin-gcide",
+        "desc_en": "Offline English-English dictionary plugin (base on GCIDE)",
+        "desc_zh": "离线 英英词典插件 (基于 GCIDE)",
+        "url": "https://github.com/wu-yufei/pot-app-translate-plugin-gcide",
+        "offical": false,
+        "illegal": false
     }
   ],
   "recognize": [

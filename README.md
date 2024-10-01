@@ -43,6 +43,7 @@
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate 翻译插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
 - [pot-app-translate-plugin-azure](https://github.com/ElmTran/pot-app-translate-plugin-azure) - Azure 翻译插件
+- [pot-app-translate-plugin-gcide](https://github.com/wu-yufei/pot-app-translate-plugin-gcide) - 离线 英英词典插件 (基于[GCIDE](https://gcide.gnu.org.ua))
 
 ## 文字识别
 
