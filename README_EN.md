@@ -43,6 +43,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API translate plugin
 - [pot-app-translate-plugin-azure](https://github.com/ElmTran/pot-app-translate-plugin-azure) - Azure translate plugin
+- [pot-app-translate-plugin-gcide](https://github.com/wu-yufei/pot-app-translate-plugin-gcide) - Offline English-English dictionary plugin (base on [GCIDE](https://gcide.gnu.org.ua))
 
 ## Recognize
 
