@@ -145,6 +145,14 @@
         "url": "https://github.com/wu-yufei/pot-app-translate-plugin-gcide",
         "offical": false,
         "illegal": false
+    },
+    {
+      "name": "pot-app-translate-plugin-cohere",
+      "desc_en": "Cohere translate plugin",
+      "desc_zh": "Cohere 翻译插件",
+      "url": "https://github.com/omegaduncan/pot-app-translate-plugin-cohere",
+      "offical": false,
+      "illegal": false
     }
   ],
   "recognize": [
