@@ -211,6 +211,14 @@
       "url": "https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao",
       "offical": false,
       "illegal": true
+    },
+    {
+      "name": "pot-app-recognize-plugin-qwen-ocr",
+      "desc_en": "Qwen recognize plugin",
+      "desc_zh": "千问 文字识别插件",
+      "url": "https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr",
+      "offical": false,
+      "illegal": true
     }
   ],
   "tts": [
