@@ -156,8 +156,8 @@
     },
     {
     "name": "pot-app-translate-plugin-deepseek",
-    "desc_en": "Translation plugin based on DeepSeek API, supporting multiple languages with two model options",
-    "desc_zh": "基于DeepSeek API的翻译插件，支持多语言翻译，提供两种模型选择",
+    "desc_en": "DeepSeek translate plugin",
+    "desc_zh": "DeepSeek 翻译插件",
     "url": "https://github.com/Tzulao55/pot-app-translate-plugin-deepseek",
     "offical": false,
     "illegal": false
