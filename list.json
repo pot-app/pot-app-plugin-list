@@ -153,6 +153,14 @@
       "url": "https://github.com/omegaduncan/pot-app-translate-plugin-cohere",
       "offical": false,
       "illegal": false
+    },
+    {
+    "name": "pot-app-translate-plugin-deepseek",
+    "desc_en": "DeepSeek translate plugin",
+    "desc_zh": "DeepSeek 翻译插件",
+    "url": "https://github.com/Tzulao55/pot-app-translate-plugin-deepseek",
+    "offical": false,
+    "illegal": false
     }
   ],
   "recognize": [

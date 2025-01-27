@@ -45,6 +45,7 @@
 - [pot-app-translate-plugin-azure](https://github.com/ElmTran/pot-app-translate-plugin-azure) - Azure 翻译插件
 - [pot-app-translate-plugin-gcide](https://github.com/wu-yufei/pot-app-translate-plugin-gcide) - 离线 英英词典插件 (基于[GCIDE](https://gcide.gnu.org.ua))
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere 翻译插件
+- [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek 翻译插件
 
 ## 文字识别
 
