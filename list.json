@@ -161,6 +161,14 @@
     "url": "https://github.com/Tzulao55/pot-app-translate-plugin-deepseek",
     "offical": false,
     "illegal": false
+    },
+    {
+    "name": "pot-app-translate-plugin-localdeepseek-r1",
+    "desc_en": "Local DeepSeek-R1 translate plugin (No display of R1 thought process)",
+    "desc_zh": "本地DeepSeek-R1 翻译插件 (输出不显示R1思考过程)",
+    "url": "https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1",
+    "offical": false,
+    "illegal": false
     }
   ],
   "recognize": [
@@ -227,6 +235,14 @@
       "url": "https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr",
       "offical": false,
       "illegal": true
+    },
+    {
+      "name": "pot-app-recognize-plugin-ollama",
+      "desc_en": "Ollama recognize plugin",
+      "desc_zh": "Ollama 文字识别插件",
+      "url": "https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama",
+      "offical": false,
+      "illegal": false
     }
   ],
   "tts": [

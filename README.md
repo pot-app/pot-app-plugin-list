@@ -46,6 +46,7 @@
 - [pot-app-translate-plugin-gcide](https://github.com/wu-yufei/pot-app-translate-plugin-gcide) - 离线 英英词典插件 (基于[GCIDE](https://gcide.gnu.org.ua))
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere 翻译插件
 - [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek 翻译插件
+- [pot-app-translate-plugin-localdeepseek-r1](https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1) - 本地DeepSeek-R1 翻译插件 (输出不显示R1思考过程)
 
 ## 文字识别
 
@@ -57,6 +58,7 @@
 - [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x)- Doc2X 文字识别插件
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - 白描 文字识别插件
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - 千问 文字识别插件
+- [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama 文字识别插件
 
 ## 语音合成
 

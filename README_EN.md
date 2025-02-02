@@ -46,6 +46,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-gcide](https://github.com/wu-yufei/pot-app-translate-plugin-gcide) - Offline English-English dictionary plugin (base on [GCIDE](https://gcide.gnu.org.ua))
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere translate plugin
 - [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek translate plugin
+- [pot-app-translate-plugin-localdeepseek-r1](https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1) - Local DeepSeek-R1 translate plugin (No display of R1 thought process)
 
 ## Recognize
 
@@ -57,6 +58,7 @@ Pot app plugin collection from the community.
 - [pot-app-recognize-plugin-doc2x](https://github.com/Menghuan1918/pot-app-recognize-plugin-doc2x) - Doc2X recognize plugin
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - Baimiao recognize plugin
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - Qwen recognize plugin
+- [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama recognize plugin
 
 ## TTS
 
