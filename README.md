@@ -47,6 +47,7 @@
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere 翻译插件
 - [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek 翻译插件
 - [pot-app-translate-plugin-localdeepseek-r1](https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1) - 本地DeepSeek-R1 翻译插件 (输出不显示R1思考过程)
+- [pot-app-translate-plugin-doubao](https://github.com/ohhowang/pot-app-translate-plugin-doubao) - 豆包翻译插件
 
 ## 文字识别
 
