@@ -169,6 +169,14 @@
     "url": "https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1",
     "offical": false,
     "illegal": false
+    },
+    {
+      "name": "pot-app-translate-plugin-doubao",
+      "desc_en": "Doubao translate plugin",
+      "desc_zh": "豆包翻译插件",
+      "url": "https://github.com/ohhowang/pot-app-translate-plugin-doubao",
+      "offical": false,
+      "illegal": false
     }
   ],
   "recognize": [
